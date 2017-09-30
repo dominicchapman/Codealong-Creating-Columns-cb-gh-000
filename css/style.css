@@ -124,6 +124,14 @@ img, video, audio {
 
 /* Section Styles */
 
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+}
+
 section {
   padding: 20px;
   margin-bottom: 20px;
